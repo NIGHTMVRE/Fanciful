@@ -1,6 +1,6 @@
 package net.amoebaman.util;
 
-import org.apache.commons.lang.Validate;
+import org.apache.commons.lang3.Validate;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -12,6 +12,7 @@ import java.util.Collection;
  * <p>
  * This class is intended for use as a key to a map.
  * </p>
+ *
  *
  * @param <E> The type of elements in the array.
  * @author Glen Husman
